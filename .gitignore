@@ -1,0 +1,5 @@
+*.pyc
+commands.db
+counters.json
+tc_log.txt*
+satellite_log.txt
