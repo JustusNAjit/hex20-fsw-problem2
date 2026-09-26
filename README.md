@@ -113,6 +113,8 @@ rejected. They are returned in the ST[3,25] housekeeping report.
 Each acceptance criterion has a test: test_db.py, test_packet.py, test_frame.py,
 test_satellite.py, test_onboard.py, test_compliance.py, test_integration.py.
 
+See the ["Test result screenshots"](./Test%20result%20screenshots) folder for output...
+
 ## Integration with Part 1
 
 sender.py sends frames over TCP to 127.0.0.1:5000. onboard.py (the reference
